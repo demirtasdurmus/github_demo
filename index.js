@@ -2,9 +2,9 @@ const express = require ("express");
 const app = express();
 
 
-app.get("/", (req, res) => {
-    res.send("Im the home page");
-})
+//app.get("/", (req, res) => {
+//    res.send("Im the home page");
+//})
 
 
 
